@@ -1,4 +1,4 @@
-SquareAndMultiply
+Square And Multiply
 =================
 
-Square and Multiply algorithm
+Square and Multiply algorithm.
